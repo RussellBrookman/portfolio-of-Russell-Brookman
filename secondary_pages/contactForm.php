@@ -69,8 +69,7 @@ if (isset($_POST['Email'])) {
 
     <!-- success message -->
 
-<!-- echo --> 
-'<script>alert("Thank you for reaching out to me. I will be in touch with you very soon.")</script>'
+echo '<script>alert("Thank you for reaching out to me. I will be in touch with you very soon.")</script>'
 
 <?php
 }
